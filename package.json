@@ -1,21 +1,17 @@
 {
-  "name": "hapi-react-router",
-  "description": "The best plugin ever.",
-  "version": "0.0.0",
-  "homepage": "https://github.com/radek/hapi-react-router",
-  "bugs": "https://github.com/radek/hapi-react-router/issues",
+  "name": "universal-react-boilerplate",
+  "version": "0.0.1",
+  "homepage": "https://github.com/nurogenic/universal-react-boilerplate",
   "license": "MIT",
-  "main": "index",
-  "author": {
-    "name": "Radek"
-  },
+  "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/radek/hapi-react-router"
+    "url": "https://github.com/nurogenic/universal-react-boilerplate"
   },
   "keywords": [
     "hapi",
-    "plugin"
+    "react",
+    "es6"
   ],
   "browserify": {
     "transform": [

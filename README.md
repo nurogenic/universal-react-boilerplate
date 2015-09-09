@@ -1,12 +1,10 @@
-# hapi-react-router 
+# universal-react-boilerplate 
 
 Includes example based on isomorphic-react-template
 
 ## Using example
 
-gulp scripts && gulp develop
+gulp develop
 
-## License
-
-Copyright (c) 2014 Radek. Licensed under the MIT license.
-
+## Forked from Radek
+https://github.com/radek/hapi-react-router
